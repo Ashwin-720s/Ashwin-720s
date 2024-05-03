@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and basics AI 
 - 💞️ I’m looking to collaborate with my friends and anyone who is passionate just like me. Looking forward to work with you!
 - 📫 How to reach me Discord (ak_720s)
-- 😄 Pronouns: Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an 14 year old who is really passionate about AI and who is look forward to create an AI company like OpenAI
 
 <!---
