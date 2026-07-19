@@ -1,0 +1,20 @@
+# Modelfile — tells Ollama how to load your fine-tuned model.
+#
+# HOW TO USE (after Step 3 in GUIDE.md, once you've downloaded your
+# fine-tuned .gguf file from Colab):
+#
+# 1. Put the downloaded .gguf file in this same folder.
+# 2. Edit the FROM line below to match your actual filename.
+# 3. Run:  ollama create cbse-study-bot -f Modelfile
+# 4. Test: ollama run cbse-study-bot
+#
+# That's it — "cbse-study-bot" is now a model Ollama can run, just like
+# llama3.2:3b, except it's YOUR fine-tuned version.
+
+FROM ./unsloth_model.gguf
+
+# Keeps answers focused and less random — good for a study bot.
+PARAMETER temperature 0.4
+PARAMETER top_p 0.9
+
+SYSTEM """You are a helpful CBSE Class 11 study assistant. Answer questions clearly and concisely, in a way that helps a student revise for exams. If you're unsure, say so rather than guessing."""

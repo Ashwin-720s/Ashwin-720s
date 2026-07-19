@@ -1,0 +1,2477 @@
+[
+  {
+    "instruction": "What was the word 'atom' derived from according to ancient philosophers?",
+    "input": "",
+    "output": "The Greek word 'a-tomio', which means 'uncut-able' or 'non-divisible'."
+  },
+  {
+    "instruction": "According to whom, the continued subdivisions of matter would ultimately yield atoms that could not be further divisible?",
+    "input": "",
+    "output": "Early Indian and Greek philosophers."
+  },
+  {
+    "instruction": "What were the main findings of scientists regarding the structure of atoms at the end of nineteenth and beginning of twentieth century?",
+    "input": "",
+    "output": "These established that atoms are made of sub-atomic particles, i.e., electrons, protons and neutrons — a concept very different from that of Dalton."
+  },
+  {
+    "instruction": "What is the rule for the behaviour of charged particles according to the text?",
+    "input": "",
+    "output": "Like charges repel each other and unlike charges attract each other"
+  },
+  {
+    "instruction": "Who showed that electricity passed through a solution of an electrolyte caused chemical reactions at the electrodes?",
+    "input": "",
+    "output": "Michael Faraday in 1830"
+  },
+  {
+    "instruction": "What did Michael Faraday formulate after studying electrical discharge in partially evacuated tubes?",
+    "input": "",
+    "output": "Laws which will be studied in Class XII"
+  },
+  {
+    "instruction": "What are cathode rays visible for?",
+    "input": "",
+    "output": "These rays themselves are not visible but their behaviour can be observed with the help of certain kind of materials (fluorescent or phosphorescent) which glow when hit by them."
+  },
+  {
+    "instruction": "How do cathode rays behave in the presence of an electrical/magnetic field?",
+    "input": "",
+    "output": "In the presence of electrical or magnetic field, these rays travel in straight lines (Fig. The behaviour of cathode rays are similar to that expected from negatively charged particles, suggesting that the cathode rays consist of negatively charged particles, called electrons."
+  },
+  {
+    "instruction": "What are positively charged gaseous ions?",
+    "input": "",
+    "output": "These are simply the positively charged gaseous ions."
+  },
+  {
+    "instruction": "Why does the charge to mass ratio of these particles depend on the gas from which they originate?",
+    "input": "",
+    "output": "(ii) The charge to mass ratio of the particles depends on the gas from which these originate."
+  },
+  {
+    "instruction": "Who characterised the positively charged particle in 1919?",
+    "input": "",
+    "output": "Ernest Rutherford"
+  },
+  {
+    "instruction": "What was the name given to the electrically neutral particles discovered by Chadwick in 1932?",
+    "input": "",
+    "output": "Neutrons"
+  },
+  {
+    "instruction": "What forces act on an oil drop in the Millikan oil drop apparatus?",
+    "input": "",
+    "output": "gravitational, electrostatic due to electrical field and a viscous drag force when the oil drop is moving."
+  },
+  {
+    "instruction": "Why were two atomic models proposed by J.J. Thomson and Ernest Rutherford discussed?",
+    "input": "",
+    "output": "Because they were able to explain the stability of atoms despite some other models being unable to do so."
+  },
+  {
+    "instruction": "What was proposed by J. Thomson as the shape of an atom?",
+    "input": "",
+    "output": "a spherical shape (radius approximately 10–10 m)"
+  },
+  {
+    "instruction": "How are electrons arranged in the Thomson model of the atom?",
+    "input": "",
+    "output": "in such a manner as to give the most stable electrostatic arrangement"
+  },
+  {
+    "instruction": "What is the Thomson model of atom visualised as?",
+    "input": "",
+    "output": "a pudding or watermelon of positive charge with plums or seeds (electrons) embedded into it."
+  },
+  {
+    "instruction": "Why was Thomson awarded Nobel Prize in 1906?",
+    "input": "",
+    "output": "for his theoretical and experimental investigations on the conduction of electricity by gases."
+  },
+  {
+    "instruction": "What is the charge on a proton?",
+    "input": "",
+    "output": "1"
+  },
+  {
+    "instruction": "The mass of an electron is approximately how much less than that of a neutron?",
+    "input": "",
+    "output": "0.00054"
+  },
+  {
+    "instruction": "What was expected to happen to the α–particles as they passed through a uniform distribution of mass in Thomson model of atom?",
+    "input": "",
+    "output": "They would slow down and change directions only by small angles."
+  },
+  {
+    "instruction": "How many α–particles were deflected by nearly 180° when passing through gold foil according to Rutherford's experiment?",
+    "input": "",
+    "output": "A very few α–particles, approximately 1 in 20,000."
+  },
+  {
+    "instruction": "What conclusion did Rutherford draw about the space inside the atom based on his observations?",
+    "input": "",
+    "output": "Most of the space in the atom is empty as most of the α–particles passed through the foil undeflected."
+  },
+  {
+    "instruction": "Why was the deflection of positively charged α–particles attributed to a small, concentrated volume of positive charge?",
+    "input": "",
+    "output": "The deflection must be due to enormous repulsive force showing that the positive charge of the atom is not spread throughout the atom as Thomson had presumed. The positive charge has to be concentrated in a very small volume that repelled and deflected the positively charged α–particles."
+  },
+  {
+    "instruction": "What is the approximate radius of an atom?",
+    "input": "",
+    "output": "10–10 m"
+  },
+  {
+    "instruction": "How does the size of the nucleus compare to that of an atom in terms of order of magnitude?",
+    "input": "",
+    "output": "The nucleus is about twice as small as an atom"
+  },
+  {
+    "instruction": "If a cricket ball represents a nucleus of an atom, what would be the radius of that atom?",
+    "input": "",
+    "output": "about 5 km"
+  },
+  {
+    "instruction": "According to Rutherford's nuclear model, where are electrons located in relation to the nucleus?",
+    "input": "",
+    "output": "surrounded by electrons moving around the nucleus with high speed in circular paths called orbits"
+  },
+  {
+    "instruction": "What is the role of protons in the nucleus of an atom?",
+    "input": "",
+    "output": "The presence of positive charge on the nucleus is due to the protons in the nucleus."
+  },
+  {
+    "instruction": "Why are electrons and the nucleus held together in the Rutherford model of atom?",
+    "input": "",
+    "output": "Electrons and the nucleus are held together by electrostatic forces of attraction."
+  },
+  {
+    "instruction": "What is the formula to calculate the mass number (A) of an atom?",
+    "input": "",
+    "output": "mass number (A) = number of protons (Z ) + number of neutrons (n)"
+  },
+  {
+    "instruction": "What are isobars and isotopes based on their characteristics?",
+    "input": "",
+    "output": "Isobars: atoms with same mass number but different atomic number; Isotopes: atoms with identical atomic number but different atomic mass number"
+  },
+  {
+    "instruction": "What determines the chemical properties of an atom?",
+    "input": "",
+    "output": "The number of electrons, which are determined by the number of protons in the nucleus."
+  },
+  {
+    "instruction": "Why do all isotopes of a given element show the same chemical behavior?",
+    "input": "",
+    "output": "Because the number of neutrons present in the nucleus have very little effect on the chemical properties of an element."
+  },
+  {
+    "instruction": "What is the charge on a sulphur ion?",
+    "input": "",
+    "output": "2"
+  },
+  {
+    "instruction": "How was the atomic mass number of sulphur determined?",
+    "input": "",
+    "output": "16 (protons) + 16 (neutrons)"
+  },
+  {
+    "instruction": "What does Newton's law of gravitation state?",
+    "input": "",
+    "output": "the laws of motion of macroscopic objects"
+  },
+  {
+    "instruction": "How is the gravitational force between two masses calculated?",
+    "input": "",
+    "output": "G. 1 2 2 m m r    "
+  },
+  {
+    "instruction": "Why does an electron in the nuclear model undergo acceleration?",
+    "input": "",
+    "output": "Because it is moving in a planet-like orbit and thus, undergoes acceleration due to changing direction even if it is moving with constant speed."
+  },
+  {
+    "instruction": "Is the coulomb force between an electron and the nucleus similar to the gravitational force?",
+    "input": "",
+    "output": "Yes, as both forces are mathematically similar, with the equation of coulomb force being kq1q2/r2, which is identical to the equation of gravitational force."
+  },
+  {
+    "instruction": "What happens to an electron's orbit when it emits electromagnetic radiation?",
+    "input": "",
+    "output": "The orbit will continue to shrink."
+  },
+  {
+    "instruction": "Why does the electron not spiral into the nucleus immediately?",
+    "input": "",
+    "output": "It takes an electron only 10–8 s to spiral into the nucleus, but this time is too short according to calculations."
+  },
+  {
+    "instruction": "Why can't electrons be considered stationary around the nucleus based on classical mechanics and electromagnetic theory?",
+    "input": "",
+    "output": "If electrons were stationary, electrostatic attraction between dense nucleus and electrons would pull them toward the nucleus to form a miniature version of Thomson's model of atom."
+  },
+  {
+    "instruction": "What is one serious drawback of Rutherford's model that Bohr's model later addresses?",
+    "input": "",
+    "output": "It says nothing about distribution of electrons around the nucleus and energies of these electrons."
+  },
+  {
+    "instruction": "Who first gave a comprehensive explanation about the interaction between charged bodies and the behaviour of electrical and magnetic fields on macroscopic level?",
+    "input": "",
+    "output": "James Maxwell (1870)"
+  },
+  {
+    "instruction": "What are produced when an electrically charged particle moves under acceleration?",
+    "input": "",
+    "output": "Alternating electrical and magnetic fields"
+  },
+  {
+    "instruction": "What is the relationship between the electric and magnetic field components of an electromagnetic wave?",
+    "input": "",
+    "output": "They have the same wavelength, frequency, speed and amplitude but vibrate in two mutually perpendicular planes."
+  },
+  {
+    "instruction": "Do all waves require a medium to propagate?",
+    "input": "",
+    "output": "No, unlike sound waves or waves produced in water, electromagnetic waves do not require a medium and can move in vacuum."
+  },
+  {
+    "instruction": "What are the different types of electromagnetic radiations?",
+    "input": "",
+    "output": "They differ from one another in wavelength (or frequency)."
+  },
+  {
+    "instruction": "What is the small portion around 1015 Hz called?",
+    "input": "",
+    "output": "Ordinarily called visible light."
+  },
+  {
+    "instruction": "What is the characteristic that distinguishes electromagnetic radiation from what our eyes can see?",
+    "input": "",
+    "output": "Electromagnetic radiation has a non-visible component."
+  },
+  {
+    "instruction": "What unit of measurement is used to represent frequency in electromagnetic radiation?",
+    "input": "",
+    "output": "The SI unit for frequency is hertz (Hz, s–1)."
+  },
+  {
+    "instruction": "What is the speed of light denoted by?",
+    "input": "",
+    "output": "The symbol 'c'"
+  },
+  {
+    "instruction": "According to equation (2.5), what are frequency, wavelength, and velocity of light related as?",
+    "input": "",
+    "output": "frequency (ν ), wavelength (λ) and velocity of light (c)"
+  },
+  {
+    "instruction": "What part of the spectrum is visible?",
+    "input": "",
+    "output": "The visible region is only a small part of the entire spectrum."
+  },
+  {
+    "instruction": "What are the units of wavenumber?",
+    "input": "",
+    "output": "Its units are reciprocal of wavelength unit, i.e., m–1. However commonly used unit is cm–1 (not SI unit)."
+  },
+  {
+    "instruction": "How can the wavelength of a wave be converted to its frequency?",
+    "input": "",
+    "output": "Using equation 2.5."
+  },
+  {
+    "instruction": "What is the range of frequencies in terms of visible spectrum when converted from wavelengths?",
+    "input": "",
+    "output": "4.0 × 10^14 Hz to 7.5 × 10^14 Hz"
+  },
+  {
+    "instruction": "What led Max Planck to develop a new theory of light that explained the results of the experiment?",
+    "input": "",
+    "output": "The wave theory of light could not explain the results of the experiment satisfactorily."
+  },
+  {
+    "instruction": "According to what theory, does the system take energy only in discrete amounts?",
+    "input": "",
+    "output": "Max Planck's theory indicates that the system can take energy only in discrete amounts."
+  },
+  {
+    "instruction": "What can all possible energies not be taken up or radiated?",
+    "input": "",
+    "output": "All possible energies cannot be taken up or radiated."
+  },
+  {
+    "instruction": "Who gave the first concrete explanation for black body radiation in 1900?",
+    "input": "",
+    "output": "Max Planck"
+  },
+  {
+    "instruction": "What is the relationship between the intensity of radiations and the temperature of a hot body?",
+    "input": "",
+    "output": "The intensities of radiations of different wavelengths emitted by hot bodies depend upon its temperature."
+  },
+  {
+    "instruction": "Why do objects made of different materials emit different amounts of radiation when kept at different temperatures?",
+    "input": "",
+    "output": "Objects made of different material and kept at different temperatures emit different amount of radiation."
+  },
+  {
+    "instruction": "What happens when the surface of an object is irradiated with light?",
+    "input": "",
+    "output": "A part of radiant energy is reflected, a part is absorbed and a part of it is transmitted."
+  },
+  {
+    "instruction": "Why can't ordinary objects absorb all the radiation they receive?",
+    "input": "",
+    "output": "Because ordinary objects are imperfect absorbers of radiation."
+  },
+  {
+    "instruction": "What is the phenomenon called in the photoelectric effect experiment?",
+    "input": "",
+    "output": "Photoelectric effect"
+  },
+  {
+    "instruction": "At what frequency below which the photoelectric effect is not observed for each metal?",
+    "input": "",
+    "output": "Below ν0 (threshold frequency)"
+  },
+  {
+    "instruction": "Who was awarded the Nobel Prize in Physics in 1918 for his work?",
+    "input": "",
+    "output": "Max Planck"
+  },
+  {
+    "instruction": "What happened to electrons when light of a particular frequency strikes a clean metal surface inside a vacuum chamber?",
+    "input": "",
+    "output": "Electrons are ejected from the metal"
+  },
+  {
+    "instruction": "What is the nature of light's dual behaviour?",
+    "input": "",
+    "output": "It possesses both particle and wave-like properties."
+  },
+  {
+    "instruction": "Why does radiation interact with matter as a stream of particles?",
+    "input": "",
+    "output": "Whenever it interacts with matter."
+  },
+  {
+    "instruction": "What happens to a photon when it collides with an electron in an atom?",
+    "input": "",
+    "output": "The energy of the photon is transferred instantly to the electron."
+  },
+  {
+    "instruction": "How does the kinetic energy of an ejected electron depend on the energy of the photon that struck it?",
+    "input": "",
+    "output": "Greater the energy possessed by the photon, greater will be transfer of energy to the electron and greater the kinetic energy of the ejected electron."
+  },
+  {
+    "instruction": "What is the relationship between the kinetic energy of the ejected electron and the frequency of electromagnetic radiation?",
+    "input": "",
+    "output": "The kinetic energy of the ejected electron is proportional to the frequency of the electromagnetic radiation."
+  },
+  {
+    "instruction": "How can we calculate the energy of one mole of photons given their frequency?",
+    "input": "",
+    "output": "The energy of one mole of photons can be calculated by multiplying the energy of a single photon (hν) by Avogadro's number."
+  },
+  {
+    "instruction": "What is the energy of one mole of photons?",
+    "input": "",
+    "output": "199.51 kJ mol\\^{-1}"
+  },
+  {
+    "instruction": "How many photons are emitted per second by a 100 watt bulb emitting light of wavelength 400 nm?",
+    "input": "",
+    "output": "20012"
+  },
+  {
+    "instruction": "What happens to the wavelength of light when it passes through a prism?",
+    "input": "",
+    "output": "A ray of white light is spread out into a series of coloured bands called spectrum."
+  },
+  {
+    "instruction": "Which part of the visible spectrum has the longest wavelength and is deviated the least?",
+    "input": "",
+    "output": "The light of red colour which has the longest wavelength."
+  },
+  {
+    "instruction": "What is the reason for visible light being a small portion of electromagnetic radiation?",
+    "input": "",
+    "output": "Visible light merges into other colors like violet merging into blue, blue into green and so on."
+  },
+  {
+    "instruction": "How do atoms and molecules react when they interact with matter in terms of energy",
+    "input": "",
+    "output": "They may absorb energy and reach to a higher energy state, which makes them unstable."
+  },
+  {
+    "instruction": "What is the term for studying emission or absorption spectra?",
+    "input": "",
+    "output": "Spectroscopy"
+  },
+  {
+    "instruction": "Why do the emission spectra of atoms in gas phase show dark spaces between emitted wavelengths?",
+    "input": "",
+    "output": "Because they emit light only at specific wavelengths"
+  },
+  {
+    "instruction": "What elements were discovered by analyzing their minerals using spectroscopic methods?",
+    "input": "",
+    "output": "Elements like rubidium (Rb), caesium (Cs) thallium (Tl), indium (In), gallium (Ga) and scandium (Sc)"
+  },
+  {
+    "instruction": "How was the element helium discovered?",
+    "input": "",
+    "output": "Helium was discovered in the sun by spectroscopic method"
+  },
+  {
+    "instruction": "What is the series of lines described by the formula λ = 1/ (n² - 4) in terms of wavenumber (cm–1)?",
+    "input": "",
+    "output": "The Balmer series"
+  },
+  {
+    "instruction": "What expression can be used to describe all series of lines in the hydrogen spectrum?",
+    "input": "",
+    "output": "λ = 1/(n₁ × n₂)"
+  },
+  {
+    "instruction": "What are the first five series of lines known as?",
+    "input": "",
+    "output": "The Lyman, Balmer, Paschen, Bracket and Pfund series,"
+  },
+  {
+    "instruction": "Why is the line spectrum of hydrogen atom the simplest among all elements?",
+    "input": "",
+    "output": "Because hydrogen atom has the simplest line spectrum."
+  },
+  {
+    "instruction": "What is an emission spectrum?",
+    "input": "",
+    "output": "An emission spectrum is a photographic recording of the separated wavelengths of light emitted by excited atoms."
+  },
+  {
+    "instruction": "Why do we get discrete wavelengths in the emission spectrum?",
+    "input": "",
+    "output": "Because the light emitted as these atoms fall to lower energy states is responsible for the spectrum."
+  },
+  {
+    "instruction": "What is a characteristic feature of the line spectrum of an element?",
+    "input": "",
+    "output": "There is regularity in the line spectrum of each element."
+  },
+  {
+    "instruction": "Why does the absorption spectrum of atomic hydrogen have lines at the same wavelengths as the emitted spectral lines?",
+    "input": "",
+    "output": "The recorded absorption spectrum is also a line spectrum and the photographic negative of the emission spectrum."
+  },
+  {
+    "instruction": "What is the main reason behind the similarities observed among elements with similar electronic structures?",
+    "input": "",
+    "output": "The electronic structure of atoms."
+  },
+  {
+    "instruction": "Who was the first scientist to explain quantitatively the general features of the structure of hydrogen atom and its spectrum?",
+    "input": "",
+    "output": "Nils Bohr (1913)"
+  },
+  {
+    "instruction": "What is the arrangement of electron orbits around the nucleus?",
+    "input": "",
+    "output": "These orbits are arranged concentrically around the nucleus."
+  },
+  {
+    "instruction": "Does the energy change in a continuous manner when an electron moves between states?",
+    "input": "",
+    "output": "No, the energy change does not take place in a continuous manner. It takes place in discrete jumps from lower stationary state to higher stationary state."
+  },
+  {
+    "instruction": "What is the expression for angular momentum of an electron moving in a circular path around the nucleus?",
+    "input": "",
+    "output": "I × ω = mevr, where I = mer2 and ω = v/r"
+  },
+  {
+    "instruction": "According to Bohr's frequency rule, what determines the frequency of radiation absorbed or emitted during transition between two stationary states?",
+    "input": "",
+    "output": "The energy difference ∆E between the two states, given by equation (2.10)"
+  },
+  {
+    "instruction": "What is the condition for an electron to move only in certain orbits?",
+    "input": "",
+    "output": "Its angular momentum must be an integral multiple of h/2π."
+  },
+  {
+    "instruction": "Why does Maxwell's electromagnetic theory not apply in this scenario?",
+    "input": "",
+    "output": "Because radiation is emitted or absorbed only when electron transition takes place from one quantised value of angular momentum to another."
+  },
+  {
+    "instruction": "What is the energy of an electron in a hydrogen atom when it's ionized?",
+    "input": "",
+    "output": "The energy of the electron is taken as zero."
+  },
+  {
+    "instruction": "Why does the energy of the electron have a negative sign for all possible orbits in a hydrogen atom?",
+    "input": "",
+    "output": "Because the electron is associated with the stationary state of Principal Quantum number = n = ∞, which means it's not present around the nucleus."
+  },
+  {
+    "instruction": "What does the negative sign (-) indicate about an electron's energy?",
+    "input": "",
+    "output": "The energy of the electron is lower than that of a free electron at rest."
+  },
+  {
+    "instruction": "How do we mathematically represent this relationship?",
+    "input": "",
+    "output": "By setting n equal to infinity in equation (2.13), so E∞=0"
+  },
+  {
+    "instruction": "What is the relationship between the velocity of an electron and the positive charge on the nucleus?",
+    "input": "",
+    "output": "The magnitude of velocity increases with increase of positive charge on the nucleus."
+  },
+  {
+    "instruction": "What happens to the energy gap between two orbits when an electron moves from a higher orbit to a lower one in hydrogen atom?",
+    "input": "",
+    "output": "The energy gap decreases."
+  },
+  {
+    "instruction": "What is the frequency of a photon emitted during a transition from n = 5 state to the n = 2 state in the hydrogen atom?",
+    "input": "",
+    "output": "6.91×10^14 Hz"
+  },
+  {
+    "instruction": "How can we calculate the energy associated with the first orbit of He+ and its radius?",
+    "input": "",
+    "output": "Not provided in the text"
+  },
+  {
+    "instruction": "What is the radius of the orbit for a hydrogen-like atom?",
+    "input": "",
+    "output": "r nm = (0.0529) n^2 / Z"
+  },
+  {
+    "instruction": "Why was Bohr's model an improvement over Rutherford's nuclear model?",
+    "input": "",
+    "output": "Because it could account for the stability and line spectra of hydrogen atoms and hydrogen-like ions."
+  },
+  {
+    "instruction": "What was the shortcoming of Bohr's model of the atom?",
+    "input": "",
+    "output": "The salient features of the structure of complex atoms were not explained by the Bohr's model."
+  },
+  {
+    "instruction": "What two developments contributed to the formulation of a more suitable and general model for atoms?",
+    "input": "",
+    "output": "Dual behaviour of matter and Heisenberg uncertainty principle."
+  },
+  {
+    "instruction": "What is the value of K.E. for an electron moving at a speed of 10^9 m/s?",
+    "input": "",
+    "output": "25 eV"
+  },
+  {
+    "instruction": "How can we calculate the mass of a photon with wavelength 3.6 Å using the given information?",
+    "input": "",
+    "output": "896.7 nm"
+  },
+  {
+    "instruction": "What will be the wavelength of a ball of mass 0.1 kg moving with a velocity of 10 m s–1 ?",
+    "input": "",
+    "output": "This question cannot be answered using the given text as it does not provide information on calculating wavelengths for macroscopic objects."
+  },
+  {
+    "instruction": "Can we detect wave properties of electrons and other subatomic particles experimentally?",
+    "input": "",
+    "output": "Yes, according to the given text, we can detect the wave properties of electrons and other subatomic particles with very small masses."
+  },
+  {
+    "instruction": "What is the relationship between position and velocity of an electron according to Heisenberg's Uncertainty Principle?",
+    "input": "",
+    "output": "If the position of the electron is known with high degree of accuracy, then the velocity of the electron will be uncertain."
+  },
+  {
+    "instruction": "Why does the uncertainty in velocity arise even if the position of the electron is known accurately?",
+    "input": "",
+    "output": "Because ∆(vx) is large when ∆x is small."
+  },
+  {
+    "instruction": "If the velocity of an electron is precisely known, what happens to its position?",
+    "input": "",
+    "output": "The position of the electron will be uncertain."
+  },
+  {
+    "instruction": "How can measuring the position or velocity of an electron affect the outcome of physical measurements?",
+    "input": "",
+    "output": "The outcome will always depict a fuzzy or blur picture."
+  },
+  {
+    "instruction": "What units should an instrument be calibrated to accurately measure the position of an electron?",
+    "input": "",
+    "output": "units smaller than the dimensions of an electron"
+  },
+  {
+    "instruction": "To observe an electron, what wavelength of light is required? ",
+    "input": "",
+    "output": "smaller than the dimensions of an electron"
+  },
+  {
+    "instruction": "What is the minimum uncertainty in velocity that can be associated with an electron if its position is measured with an accuracy of 10^-8 m?",
+    "input": "",
+    "output": "1.05 x 10^4 m/s"
+  },
+  {
+    "instruction": "For a golf ball with a mass of 40g and a speed of 45 m/s, what is the uncertainty in its position if the speed can be measured within an accuracy of 2%?",
+    "input": "",
+    "output": "0.8 cm"
+  },
+  {
+    "instruction": "What defines an orbit in an atom?",
+    "input": "",
+    "output": "A clearly defined path that can be completely known only if the position and velocity of the electron are exactly known at the same time."
+  },
+  {
+    "instruction": "According to which principle does Bohr model of hydrogen atom contradict another concept?",
+    "input": "",
+    "output": "The Heisenberg uncertainty principle."
+  },
+  {
+    "instruction": "What led to the development of a new model for the atom?",
+    "input": "",
+    "output": "The inherent weaknesses of the Bohr model and the need for a theory that could account for wave-particle duality and be consistent with Heisenberg's uncertainty principle."
+  },
+  {
+    "instruction": "Why does classical mechanics fail when applied to microscopic objects like electrons, atoms, and molecules?",
+    "input": "",
+    "output": "Because it fails to describe their particle-like behaviour correctly."
+  },
+  {
+    "instruction": "Who developed the fundamental equation of quantum mechanics?",
+    "input": "",
+    "output": "Erwin Schrödinger"
+  },
+  {
+    "instruction": "Why is knowledge of higher mathematics needed to solve the fundamental equation of quantum mechanics?",
+    "input": "",
+    "output": "Because it incorporates wave-particle duality of matter as proposed by de Broglie"
+  },
+  {
+    "instruction": "Who was forcibly removed from his professorship after Austria's invasion by Germany?",
+    "input": "",
+    "output": "Schrödinger"
+  },
+  {
+    "instruction": "What is the meaning of wave function in an atom?",
+    "input": "",
+    "output": "It is a mathematical function whose value depends upon the coordinates of the electron in the atom and does not carry any physical meaning."
+  },
+  {
+    "instruction": "What is the main feature of the energy of electrons in atoms according to the quantum-mechanical model?",
+    "input": "",
+    "output": "The energy of electrons in atoms is quantized (i.e., can only have certain specific values)"
+  },
+  {
+    "instruction": "According to Heisenberg uncertainty principle, what cannot be determined simultaneously for an electron in an atom?",
+    "input": "",
+    "output": "Both the exact position and exact velocity of an electron in an atom"
+  },
+  {
+    "instruction": "Can the path of an electron in an atom be determined or known accurately?",
+    "input": "",
+    "output": "No, it cannot."
+  },
+  {
+    "instruction": "What is the term used for a wave function that describes an electron's position in an atom?",
+    "input": "",
+    "output": "An atomic orbital."
+  },
+  {
+    "instruction": "What are the criteria used to distinguish atomic orbitals?",
+    "input": "",
+    "output": "size, shape and orientation"
+  },
+  {
+    "instruction": "What are the quantum numbers that precisely distinguish atomic orbitals?",
+    "input": "",
+    "output": "n, l and ml"
+  },
+  {
+    "instruction": "What is the relationship between the number of allowed orbitals and the principal quantum number 'n'?",
+    "input": "",
+    "output": "The number of allowed orbitals increases with the increase in the value of 'n', given by n^2"
+  },
+  {
+    "instruction": "How does the size of an orbital relate to the principal quantum number 'n'? ",
+    "input": "",
+    "output": "The size of an orbital increases with the increase of principal quantum number 'n'"
+  },
+  {
+    "instruction": "What does the azimuthal quantum number (l) define?",
+    "input": "",
+    "output": "The three-dimensional shape of the orbital."
+  },
+  {
+    "instruction": "How many possible values of l are there for a given value of n?",
+    "input": "",
+    "output": "n values ranging from 0 to n – 1"
+  },
+  {
+    "instruction": "What are the possible values of l for n = 3?",
+    "input": "",
+    "output": "0, 1 and 2"
+  },
+  {
+    "instruction": "How many sub-shells are present in a principal shell with n = 1?",
+    "input": "",
+    "output": "1"
+  },
+  {
+    "instruction": "How many sub-shells are present in the second shell (n = 2)?",
+    "input": "",
+    "output": "Two sub-shells, which are s and p."
+  },
+  {
+    "instruction": "What notation is used to represent sub-shells corresponding to different values of l?",
+    "input": "",
+    "output": "The notation for s, p, d, f, g, h corresponds to l = 0, 1, 2, 3, 4, 5 respectively."
+  },
+  {
+    "instruction": "What is the intrinsic property of an electron that distinguishes it from a photon?",
+    "input": "",
+    "output": "Intrinsic spin angular quantum number"
+  },
+  {
+    "instruction": "How many orientations can the spin angular momentum of an electron have relative to a chosen axis?",
+    "input": "",
+    "output": "Two"
+  },
+  {
+    "instruction": "What are the conditions for two electrons to be in the same orbital?",
+    "input": "",
+    "output": "Two electrons that have different ms values (one +½ and the other –½) are said to have opposite spins."
+  },
+  {
+    "instruction": "How does the quantum number 'l' influence the shape of an orbital?",
+    "input": "",
+    "output": "The quantum number 'l' identifies the subshell and determines the shape of the orbital."
+  },
+  {
+    "instruction": "Are Bohr orbits considered real or hypothetical?",
+    "input": "",
+    "output": "Bohr orbits are not considered real and have no meaning according to Heisenberg's uncertainty principle."
+  },
+  {
+    "instruction": "What is the significance of quantum numbers in an atomic orbital?",
+    "input": "",
+    "output": "Quantum numbers (n, l and ml) characterize an atomic orbital and determine its value based on the electron's coordinates."
+  },
+  {
+    "instruction": "What does the square of the wave function (ψ²) at a point give?",
+    "input": "",
+    "output": "The probability density of the electron at that point."
+  },
+  {
+    "instruction": "According to Max Born, how is ψ² related to the orientation of an electron's spin?",
+    "input": "",
+    "output": "It is referred to as ms."
+  },
+  {
+    "instruction": "What is the shape of probability density function for 2s orbital?",
+    "input": "",
+    "output": "The probability density function for 2s orbital first decreases sharply to zero and again starts increasing after reaching a small maxima."
+  },
+  {
+    "instruction": "What are the regions where probability density function reduces to zero in case of atomic orbitals?",
+    "input": "",
+    "output": "The region where this probability density function reduces to zero is called nodal surfaces or simply nodes."
+  },
+  {
+    "instruction": "What is the total number of orbitals associated with n = 3?",
+    "input": "",
+    "output": "9"
+  },
+  {
+    "instruction": "How many orbitals are represented by the quantum numbers n = 2, l = 1?",
+    "input": "",
+    "output": "2p"
+  },
+  {
+    "instruction": "What determines the shape of an orbital?",
+    "input": "",
+    "output": "The plots of corresponding wave functions as a function of r (the distance from the nucleus) are different for different orbitals."
+  },
+  {
+    "instruction": "How is the electron probability density represented in a region?",
+    "input": "",
+    "output": "Boundary surface diagrams of constant probability density give a fairly good representation of the shapes of the orbitals."
+  },
+  {
+    "instruction": "What type of shape do s-orbitals have?",
+    "input": "",
+    "output": "Spherical"
+  },
+  {
+    "instruction": "How does the size of an s-orbital relate to the principal quantum number?",
+    "input": "",
+    "output": "Increases with increase in n"
+  },
+  {
+    "instruction": "What designations are given to the lobes based on their orientation?",
+    "input": "",
+    "output": "2px, 2py, and 2pz"
+  },
+  {
+    "instruction": "How do the values of ml relate to the x, y, and z directions?",
+    "input": "",
+    "output": "There is no simple relation; they are mutually perpendicular"
+  },
+  {
+    "instruction": "What are the five d-orbitals designated?",
+    "input": "",
+    "output": "The five d-orbitals are dxy, dyz, dxz, dx2–y2 and dz2."
+  },
+  {
+    "instruction": "Are all the d orbitals equivalent in energy?",
+    "input": "",
+    "output": "Yes, all five 3d orbitals are equivalent in energy."
+  },
+  {
+    "instruction": "What are angular nodes called?",
+    "input": "",
+    "output": "angular planes"
+  },
+  {
+    "instruction": "How many radial nodes are there for n=4 orbitals?",
+    "input": "",
+    "output": "(n–l – 2)"
+  },
+  {
+    "instruction": "What is the order of increasing energy for the orbitals in a hydrogen atom?",
+    "input": "",
+    "output": "1s < 2s = 2p < 3s = 3p = 3d <4s = 4p = 4d = 4f"
+  },
+  {
+    "instruction": "Why are electrons in degenerate orbitals (like 2s and 2p) considered to have the same energy?",
+    "input": "",
+    "output": "Because their shapes of 2s and 2p orbitals are different, yet an electron has the same energy when it is in the 2s orbital as when it is present in 2p orbital."
+  },
+  {
+    "instruction": "What determines the energy of an electron in a multi-electron atom?",
+    "input": "",
+    "output": "The azimuthal quantum number (subshell) along with the principal quantum number."
+  },
+  {
+    "instruction": "How do the energies of orbitals within a given principal quantum number differ?",
+    "input": "",
+    "output": "They increase in the order s<p<d<f"
+  },
+  {
+    "instruction": "Why do subshells have different energies?",
+    "input": "",
+    "output": "The main reason is the mutual repulsion among the electrons in multi-electron atoms."
+  },
+  {
+    "instruction": "What effect does mutual repulsion between electrons have on the stability of an electron in a multi-electron atom?",
+    "input": "",
+    "output": "Total attractive interactions are more than the repulsive interactions, resulting in greater stability."
+  },
+  {
+    "instruction": "What is the effect of increase in nuclear charge on the attractive force experienced by outer shell electrons?",
+    "input": "",
+    "output": "The attractive force increases."
+  },
+  {
+    "instruction": "How do orbitals with the same principal quantum number differ in energy for different atoms?",
+    "input": "",
+    "output": "Orbitals with the same principal quantum number possess different energies for different azimuthal quantum numbers."
+  },
+  {
+    "instruction": "What effect does the shape of an orbital have on its ability to shield outer electrons from the nucleus?",
+    "input": "",
+    "output": "The spherical s-orbital shields the outer electrons from the nucleus more effectively than the p-orbitals and d-orbitals."
+  },
+  {
+    "instruction": "Which type of orbital electron spends less time in the vicinity of the nucleus compared to another type of orbital electron within the same shell?",
+    "input": "",
+    "output": "A p-orbital electron spends less time in the vicinity of the nucleus compared to an s-orbital electron and a d-orbital electron."
+  },
+  {
+    "instruction": "Why do different subshells of a particular shell have different energies in case of multi-electrons atoms?",
+    "input": "",
+    "output": "Because of the variation in energy due to the presence of multiple electrons"
+  },
+  {
+    "instruction": "Does the energy of an orbital decrease with increase in atomic number (Zeff)?",
+    "input": "",
+    "output": "Yes, it does for orbitals in the same subshell"
+  },
+  {
+    "instruction": "Why do half-filled and fully filled degenerate sets of orbitals acquire extra stability?",
+    "input": "",
+    "output": "Due to their symmetry."
+  },
+  {
+    "instruction": "How can the electronic configurations of different atoms be represented?",
+    "input": "",
+    "output": "In two ways, by keeping in mind the basic rules which govern the filling of different atomic orbitals."
+  },
+  {
+    "instruction": "What is represented by the letter symbol and the number of electrons present in a subshell in orbital notation?",
+    "input": "",
+    "output": "The principal quantum number before the respective subshell."
+  },
+  {
+    "instruction": "Why is the second notation (orbital diagram) preferred over the first notation?",
+    "input": "",
+    "output": "It represents all four quantum numbers."
+  },
+  {
+    "instruction": "What is the electronic configuration of a hydrogen atom?",
+    "input": "",
+    "output": "1s1"
+  },
+  {
+    "instruction": "According to the Pauli exclusion principle, what happens to the third electron of lithium (Li)?",
+    "input": "",
+    "output": "is not allowed in the 1s orbital"
+  },
+  {
+    "instruction": "What is represented by the total number of electrons in the first two shells for elements from sodium to argon?",
+    "input": "",
+    "output": "The name of element neon (Ne)"
+  },
+  {
+    "instruction": "How are valence electrons defined according to the text?",
+    "input": "",
+    "output": "Electrons that are added to the electronic shell with the highest principal quantum number"
+  },
+  {
+    "instruction": "What is the pattern of filling the 5s, 4d and 5p orbitals similar to?",
+    "input": "",
+    "output": "that of 4s, 3d and 4p orbitals"
+  },
+  {
+    "instruction": "Which orbital contains two electrons in barium (Ba)?",
+    "input": "",
+    "output": "the 6s orbital"
+  },
+  {
+    "instruction": "What is the main reason for an electron shifting from a subshell of lower energy to one of higher energy?",
+    "input": "",
+    "output": "provided such a shift results in all orbitals of the subshell of higher energy getting either completely filled or half filled"
+  },
+  {
+    "instruction": "Which type of subshells have electrons most likely to remain stable and not shift to a subshell of higher energy?",
+    "input": "",
+    "output": "Completely Filled Subshells"
+  },
+  {
+    "instruction": "What is the reason for stability of completely filled and half-filled subshells?",
+    "input": "",
+    "output": "Symmetrical distribution of electrons due to symmetry leads to stability."
+  },
+  {
+    "instruction": "Why are completely filled and half-filled subshells more stable than other configurations?",
+    "input": "",
+    "output": "Because they have symmetrical distribution of electrons in them."
+  },
+  {
+    "instruction": "What happens to the energy released when two or more electrons with the same spin exchange their positions?",
+    "input": "",
+    "output": "The energy released due to this exchange is called exchange energy."
+  },
+  {
+    "instruction": "When does the number of exchanges that can take place in a subshell get maximum?",
+    "input": "",
+    "output": "When the subshell is either half filled or completely filled"
+  },
+  {
+    "instruction": "What is the basis of Hund's rule?",
+    "input": "",
+    "output": "The exchange energy is maximum and so is the stability."
+  },
+  {
+    "instruction": "Why are half-filled and completely filled subshells stable?",
+    "input": "",
+    "output": "Because of larger exchange energy, smaller coulombic repulsion energy, and relatively small shielding."
+  },
+  {
+    "instruction": "What is considered the building block of elements according to John Dalton's atomic theory?",
+    "input": "",
+    "output": "Atom"
+  },
+  {
+    "instruction": "What were found to be three fundamental particles that make up atoms according to experimental proof?",
+    "input": "",
+    "output": "Electrons, Protons and Neutrons"
+  },
+  {
+    "instruction": "What determines the energy order of orbitals in an atom?",
+    "input": "",
+    "output": "The orbital with lower value of n has the lower energy."
+  },
+  {
+    "instruction": "Why do electrons fill orbitals in increasing order of energy according to Pauli exclusion principle and Hund’s rule?",
+    "input": "",
+    "output": "Electrons fill orbitals in increasing order of energy in accordance with Pauli exclusion principle (no two electrons in an atom can have the same set of four quantum numbers) and Hund’s rule of maximum multiplicity."
+  },
+  {
+    "instruction": "What is the total number of electrons present in one mole of methane?",
+    "input": "",
+    "output": "12"
+  },
+  {
+    "instruction": "How many neutrons are present in 7 mg of 14C?",
+    "input": "",
+    "output": "1"
+  },
+  {
+    "instruction": "What is the atomic number and mass number of the nuclei given: 6 13C O Mg Fe Sr ?",
+    "input": "",
+    "output": "The given nucleus has protons = 6, neutrons = 7 (given as 13-6=7) and mass number A = 13."
+  },
+  {
+    "instruction": "Write the complete symbol for the atom with atomic number Z = 17 and atomic mass A = 35 ?",
+    "input": "",
+    "output": "The complete symbol is: ^17_5Cl"
+  },
+  {
+    "instruction": "What is the energy of a photon that strikes a metal surface with a wavelength of 4 × 10–7 m and has a work function of 2.13 eV?",
+    "input": "",
+    "output": "3.16 eV"
+  },
+  {
+    "instruction": "If the ionisation energy of sodium atom can be obtained by using electromagnetic radiation of wavelength 242 nm, what is its ionisation energy in kJ mol–1?",
+    "input": "",
+    "output": "4.17 × 10^5 kJ mol–1"
+  },
+  {
+    "instruction": "What is the formula to calculate the rate of emission of quanta per second?",
+    "input": "",
+    "output": "Not mentioned in the provided text."
+  },
+  {
+    "instruction": "How do you calculate threshold frequency (ν0) and work function (W0) of a metal when electrons are emitted with zero velocity from its surface?",
+    "input": "",
+    "output": "The formula for work function is W0 = hf0, where f0 is the frequency corresponding to wavelength λ0 = 6800 Å. The frequency f0 can be calculated using the formula f0 = c / λ0, where c is the speed of light."
+  },
+  {
+    "instruction": "What is the energy associated with the first orbit in the hydrogen atom?",
+    "input": "",
+    "output": "-2.18 × 10^−18 J atom^-1"
+  },
+  {
+    "instruction": "How can we calculate the radius of Bohr's fifth orbit for hydrogen atom?",
+    "input": "",
+    "output": "Using the formula r_n = n^2 * a_0"
+  },
+  {
+    "instruction": "What is the wavenumber for the longest wavelength transition in the Balmer series of atomic hydrogen?",
+    "input": "",
+    "output": "2.18 × 10^5 cm^-1"
+  },
+  {
+    "instruction": "What is the energy required to remove an electron completely from the n = 2 orbit and the wavelength of light emitted when it returns to the ground state?",
+    "input": "",
+    "output": "Not provided in the given text"
+  },
+  {
+    "instruction": "What is the longest wavelength of light in cm that can be used to cause ionisation?",
+    "input": "",
+    "output": "not mentioned in the provided text"
+  },
+  {
+    "instruction": "Calculate the wavelength of an electron moving with a velocity of 2.05 × 10^7 m s^-1.",
+    "input": "",
+    "output": "not mentioned in the provided text"
+  },
+  {
+    "instruction": "What are the electronic configurations of the given ions?",
+    "input": "",
+    "output": "Na+ = 1s^2 2s^2 2p^6, H- = 1s^1, O2- = 1s^2 2s^2 2p^6, F- = 1s^2 2s^2 2p^6"
+  },
+  {
+    "instruction": "What are the atomic numbers of elements whose outermost electrons are represented by 3s1, 2p3 and 3p5?",
+    "input": "",
+    "output": "Atomic number is 1 for 3s^1, Atomic number is 18 for 2p^3, Atomic number is 17 for 3p^5"
+  },
+  {
+    "instruction": "What are the possible values of n, l and ml for an electron in a 3d orbital?",
+    "input": "",
+    "output": "n = 2, l = 2, ml = -2, -1, 0, 1, 2"
+  },
+  {
+    "instruction": "How can we deduce the number of protons from an atom with 29 electrons and 35 neutrons?",
+    "input": "",
+    "output": "The number of protons is equal to the number of protons in a neutral atom. The atomic mass (protons + neutrons) is 64, so the number of protons is 29."
+  },
+  {
+    "instruction": "What are the possible values of l and ml ?",
+    "input": "",
+    "output": "0 ≤ l ≤ n - 1 and –l ≤ ml ≤ l"
+  },
+  {
+    "instruction": "List the quantum numbers (ml and l) of electrons for 3d orbital",
+    "input": "",
+    "output": "For 3d orbital, l=2 and ml=-2,-1,0,1,2"
+  },
+  {
+    "instruction": "What are the quantum numbers that are not possible?",
+    "input": "",
+    "output": "n = 0, l = 0, ml = 0, ms = + ½ and n = 3, l = 1, ml = 0, ms = + ½"
+  },
+  {
+    "instruction": "How many electrons can have the quantum number n = 4 and ms = -1/2?",
+    "input": "",
+    "output": "There is no specific information given in the text to determine this quantity. However, based on the concept of quantum numbers, there can be multiple values for l and m that correspond to a particular value of n and s"
+  },
+  {
+    "instruction": "What is the radius of a carbon atom if 2×10^8 atoms are arranged side by side with a total length of 2.4 cm?",
+    "input": "",
+    "output": "1.8 × 10^-10 m"
+  },
+  {
+    "instruction": "If the diameter of a zinc atom is 2.6 Å, what is its radius in pm and how many atoms would be present in a length of 1.6 cm if arranged side by side?",
+    "input": "",
+    "output": "[a] 1.3 pm, [b] 10^5 atoms"
+  },
+  {
+    "instruction": "What is the number of electrons present in an electron?",
+    "input": "",
+    "output": "1 electron"
+  },
+  {
+    "instruction": "If the static electric charge on the oil drop is –1.282 × 10–18C, calculate the number of electrons present on it.",
+    "input": "",
+    "output": "The negative sign indicates a net gain of one electron."
+  },
+  {
+    "instruction": "If a thin foil of light atoms like aluminium is used, what difference would be observed from the results?",
+    "input": "",
+    "output": "The mass number will increase due to the additional neutrons present in the atom."
+  },
+  {
+    "instruction": "Why are symbols 35Br and 31Br not acceptable?",
+    "input": "",
+    "output": "Because the correct symbol for Bromine should have the atomic number (35) first, followed by the mass number (79)."
+  },
+  {
+    "instruction": "What is the mass number of an ion that contains 11.1% more neutrons than electrons and possesses one unit of negative charge?",
+    "input": "",
+    "output": "37"
+  },
+  {
+    "instruction": "How does the percentage of neutrons compared to electrons in a positively charged ion with mass number 56 relate to its charge?",
+    "input": "",
+    "output": "It has 3 units of positive charge"
+  },
+  {
+    "instruction": "What is the number of photons received by the detector if it receives a total energy of 3.15 × 10–18 J from radiation of 600 nm?",
+    "input": "",
+    "output": "5.25 × 10^{14}"
+  },
+  {
+    "instruction": "If the radiation source has a duration of 2 ns and emits 2.5 × 10^{15} photons, calculate its energy.",
+    "input": "",
+    "output": "1.25 × 10^{-13} J"
+  },
+  {
+    "instruction": "What is the threshold wavelength for a caesium atom given its work function of 1.9 eV?",
+    "input": "",
+    "output": "12400 / (1.9 * 1.6e-19) nm"
+  },
+  {
+    "instruction": "How does one calculate the kinetic energy and velocity of a photoelectron ejected from a caesium element when irradiated with 500 nm wavelength?",
+    "input": "",
+    "output": "Kinetic energy = hv - W0, Velocity = sqrt(2K/m), where h is Planck's constant, v is frequency, K is kinetic energy, m is mass of electron"
+  },
+  {
+    "instruction": "What is the wavelength associated with the transition from an orbit having radius 1.3225 nm to one having a radius of 211.6 pm?",
+    "input": "",
+    "output": "The wavelength associated with this transition is 255.3 Å."
+  },
+  {
+    "instruction": "To which series does the transition from 1.3225 nm to 211.6 pm orbit belong and in what region of spectrum does it occur?",
+    "input": "",
+    "output": "This transition belongs to the Lyman series, which occurs in the ultraviolet region."
+  },
+  {
+    "instruction": "What is the characteristic velocity associated with a neutron if its wavelength is 800 pm?",
+    "input": "",
+    "output": "2.59 × 10^8 m/s"
+  },
+  {
+    "instruction": "If the velocity of an electron in Bohr's first orbit is 2.19 × 10^6 ms–1, what is its de Broglie wavelength?",
+    "input": "",
+    "output": "0.00125 nm"
+  },
+  {
+    "instruction": "Is there any problem in defining the momentum of an electron if its value is h/4πm × 0.05 nm?",
+    "input": "",
+    "output": "Yes, because this value is not quantized and does not satisfy the uncertainty principle."
+  },
+  {
+    "instruction": "Arrange the given six electrons in order of increasing energies based on their quantum numbers (n = 4, l = 2, ml = –2 , ms = –1/2),",
+    "input": "",
+    "output": "The given combination with n = 4 and l = 2 has two subshells: d- and f-; however, without specifying the other orbitals and energy levels, it is impossible to definitively arrange the electrons in order of increasing energies."
+  },
+  {
+    "instruction": "Which of these electron experiences the lowest effective nuclear charge?",
+    "input": "",
+    "output": "The electrons in the 4p orbital."
+  },
+  {
+    "instruction": "Among the following pairs of orbitals which orbital will experience the larger effective nuclear charge?",
+    "input": "",
+    "output": "Neither (ii) nor (iii), as they are in the same energy level. Between (i) and (iii), (ii) 4d and 4f will have a higher effective nuclear charge than (iii) 3d and 3p."
+  },
+  {
+    "instruction": "Which electrons will experience more effective nuclear charge from the nucleus?",
+    "input": "",
+    "output": "Electrons in the innermost energy level will experience more effective nuclear charge from the nucleus."
+  },
+  {
+    "instruction": "What is the number of unpaired electrons in P, Si, Cr, Fe and Kr?",
+    "input": "",
+    "output": "This information cannot be determined without knowing the electron configuration. However, based on their atomic numbers, we can determine that: (a) P has 1 unpaired electron, (b) Si has 0 unpaired electrons, (c) Cr has 3 unpaired electrons, (d) Fe has 4 unpaired electrons and (e) Kr has 0 unpaired electrons."
+  },
+  {
+    "instruction": "What is the basis for periodic classification of elements according to CBSE Class 11 Chemistry textbook?",
+    "input": "",
+    "output": "The atomic number and electronic configuration of atoms."
+  },
+  {
+    "instruction": "What is the significance of ionization enthalpy in relation to metallic character?",
+    "input": "",
+    "output": "Ionization enthalpy is inversely proportional to metallic character."
+  },
+  {
+    "instruction": "Why is it necessary to classify elements?",
+    "input": "",
+    "output": "Because elements are the basic units of all types of matter and their number was more than doubled between 1800 and 1865."
+  },
+  {
+    "instruction": "How many elements are currently known?",
+    "input": "",
+    "output": "There are 114 elements that are currently identified."
+  },
+  {
+    "instruction": "Who is credited with considering the idea of trends among properties of elements?",
+    "input": "",
+    "output": "Johann Dobereiner"
+  },
+  {
+    "instruction": "In what year did Johann Dobereiner note a similarity among the physical and chemical properties of several groups of three elements (Triads)?",
+    "input": "",
+    "output": "1829"
+  },
+  {
+    "instruction": "Who dismissed the Law of Triads as a coincidence?",
+    "input": "",
+    "output": "A French geologist, A.E.B. de Chancourtois in 1862"
+  },
+  {
+    "instruction": "When were both chemists proposed to arrange elements based on their atomic weights?",
+    "input": "",
+    "output": "in 1869"
+  },
+  {
+    "instruction": "Who is generally credited with the development of the Modern Periodic Table?",
+    "input": "",
+    "output": "Dmitri Mendeleev"
+  },
+  {
+    "instruction": "Who was responsible for publishing the Periodic Law for the first time?",
+    "input": "",
+    "output": "Dmitri Mendeleev"
+  },
+  {
+    "instruction": "What was Mendeleev's arrangement method for elements?",
+    "input": "",
+    "output": "horizontal rows and vertical columns of a table in order of their increasing atomic weights"
+  },
+  {
+    "instruction": "What properties did Mendeleev use to classify the elements?",
+    "input": "",
+    "output": "similarities in the empirical formulas and properties of the compounds formed by the elements"
+  },
+  {
+    "instruction": "Why did Mendeleev ignore the order of atomic weights?",
+    "input": "",
+    "output": "He ignored the order of atomic weights because he thought the atomic measurements might be incorrect."
+  },
+  {
+    "instruction": "What were the gaps in Mendeleev's Periodic Table?",
+    "input": "",
+    "output": "Some undiscovered elements, such as gallium and germanium, left gaps in the table."
+  },
+  {
+    "instruction": "What was predicted by Mendeleev for Eka-aluminium (Gallium) and Eka-silicon (Germanium)?",
+    "input": "",
+    "output": "Atomic weight 68, Density/(g/cm3) 5.9, Melting point/K Low 302.93 High 1231"
+  },
+  {
+    "instruction": "What was observed by Henry Moseley in 1913 regarding the characteristic X-ray spectra of the elements?",
+    "input": "",
+    "output": "Regularities"
+  },
+  {
+    "instruction": "What led to the modification of Mendeleev's Periodic Law?",
+    "input": "",
+    "output": "A plot of (frequency of X-rays emitted) against atomic number (Z) gave a straight line, not a plot against atomic mass."
+  },
+  {
+    "instruction": "According to the Modern Periodic Law, what is the relationship between the physical and chemical properties of elements?",
+    "input": "",
+    "output": "The physical and chemical properties of the elements are periodic functions of their atomic numbers."
+  },
+  {
+    "instruction": "What is the basis of Periodic Law?",
+    "input": "",
+    "output": "Periodic variation in electronic configurations."
+  },
+  {
+    "instruction": "Why are various forms of Periodic Table devised from time to time?",
+    "input": "",
+    "output": "Because it is now recognized that the Periodic Law is essentially the consequence of periodic variation in electronic configurations."
+  },
+  {
+    "instruction": "What led to the reconfiguration of the periodic table regarding the placement of actinoids and lanthanoids?",
+    "input": "",
+    "output": "Seaborg's work in the middle of the 20th century, starting with the discovery of plutonium in 1940, followed by those of all the transuranium elements from 94 to 102."
+  },
+  {
+    "instruction": "Why was Element 106 named Seaborgium?",
+    "input": "",
+    "output": "Element 106 has been named Seaborgium (Sg) in honour of Seaborg."
+  },
+  {
+    "instruction": "According to IUPAC recommendations, how are the groups of elements numbered?",
+    "input": "",
+    "output": "The groups are numbered 1-18 in accordance with the 1984 IUPAC recommendations."
+  },
+  {
+    "instruction": "Why do some elements have highly sophisticated and costly equipment for their synthesis and characterization?",
+    "input": "",
+    "output": "A few atoms of them are obtained, therefore, Their synthesis and characterisation require highly sophisticated costly equipment and laboratory."
+  },
+  {
+    "instruction": "Why is it important to use a systematic nomenclature for new elements?",
+    "input": "",
+    "output": "To avoid problems like different scientists claiming credit for the discovery of the same element."
+  },
+  {
+    "instruction": "What are the numerical roots used in IUPAC's recommendation for naming new elements?",
+    "input": "",
+    "output": "Numerical roots are derived from the atomic number, with 0 and numbers 1-9 representing specific symbols."
+  },
+  {
+    "instruction": "How do elements with atomic numbers above 100 get their official IUPAC names?",
+    "input": "",
+    "output": "The new element first gets a temporary name, with symbol consisting of three letters. Later permanent name and symbol are given by a vote of IUPAC representatives from each country."
+  },
+  {
+    "instruction": "Why do the permanent names sometimes reflect the country where an element was discovered or pay tribute to a notable scientist?",
+    "input": "",
+    "output": "The permanent name might reflect the country (or state of the country) in which the element was discovered, or pay tribute to a notable scientist."
+  },
+  {
+    "instruction": "What is the symbol of the element with atomic number 120?",
+    "input": "",
+    "output": "Ubn"
+  },
+  {
+    "instruction": "Why is the IUPAC name for the element with atomic number 120 unbinilium?",
+    "input": "",
+    "output": "Because its roots for 1, 2 and 0 are un, bi and nil, respectively."
+  },
+  {
+    "instruction": "What is the value of n that determines the period in the Periodic Table?",
+    "input": "",
+    "output": "n = 1, n = 2, etc."
+  },
+  {
+    "instruction": "Why do successive periods have twice as many elements as the number of atomic orbitals available?",
+    "input": "",
+    "output": "Because each period is associated with the filling of the next higher principal energy level"
+  },
+  {
+    "instruction": "What is the electronic configuration of the first element in the fourth period?",
+    "input": "",
+    "output": "3d14s2"
+  },
+  {
+    "instruction": "Which element marks the end of the fourth period and the filling up of the 4p orbitals?",
+    "input": "",
+    "output": "krypton"
+  },
+  {
+    "instruction": "How many elements are there in the fourth period?",
+    "input": "",
+    "output": "18"
+  },
+  {
+    "instruction": "Which orbital series starts at yttrium (Z = 39) in the fifth period?",
+    "input": "",
+    "output": "4d transition series"
+  },
+  {
+    "instruction": "Why are the 4f- and 5f-inner transition series of elements placed separately in the Periodic Table?",
+    "input": "",
+    "output": "to maintain its structure and to preserve the principle of classification by keeping elements with similar properties in a single column."
+  },
+  {
+    "instruction": "How do the number of orbitals (l) affect the arrangement of elements in the Periodic Table?",
+    "input": "",
+    "output": "When n = 5, l can be 0, 1, 2 or 3."
+  },
+  {
+    "instruction": "What is the order of energy of the available orbitals?",
+    "input": "",
+    "output": "5s < 4d < 5p"
+  },
+  {
+    "instruction": "How many elements are in the 5th period?",
+    "input": "",
+    "output": "18"
+  },
+  {
+    "instruction": "What determines the group or family of elements in a vertical column of the Periodic Table?",
+    "input": "",
+    "output": "The elements have the same number and distribution of electrons in their outermost orbitals."
+  },
+  {
+    "instruction": "Why do elements in the same block exhibit similar chemical behaviour?",
+    "input": "",
+    "output": "Because they have the same type of atomic orbitals being filled with electrons."
+  },
+  {
+    "instruction": "What is the reason for helium being placed in the p-block despite being a part of the s-block?",
+    "input": "",
+    "output": "It has a completely filled valence shell (1s2) and exhibits properties characteristic of other noble gases."
+  },
+  {
+    "instruction": "Why can hydrogen be classified as an alkali metal?",
+    "input": "",
+    "output": "It has only one s-electron, allowing it to gain an electron and achieve a noble gas arrangement."
+  },
+  {
+    "instruction": "What happens to the outermost electron(s) of s-block elements?",
+    "input": "",
+    "output": "They lose the outermost electron(s) readily to form 1+ ion (in the case of alkali metals) or 2+ ion (in the case of alkaline earth metals)."
+  },
+  {
+    "instruction": "Why are compounds of s-block elements predominantly ionic?",
+    "input": "",
+    "output": "Because of high reactivity they are never found pure in nature. The compounds of the s-block elements, with the exception of those of lithium and beryllium are predominantly ionic."
+  },
+  {
+    "instruction": "What is the outermost electronic configuration that varies from each period?",
+    "input": "",
+    "output": "ns2np1 to ns2np6"
+  },
+  {
+    "instruction": "Why do noble gases exhibit low chemical reactivity?",
+    "input": "",
+    "output": "Because all their orbitals in the valence shell are completely filled by electrons, making it difficult to alter this stable arrangement."
+  },
+  {
+    "instruction": "What is the general outer electronic configuration of transition elements?",
+    "input": "",
+    "output": "(n-1)d¹⁰ns²⁰-2, except for Pd which has 4d¹⁰⁵s⁰"
+  },
+  {
+    "instruction": "Why do Zn, Cd and Hg not show most of the properties of transition elements?",
+    "input": "",
+    "output": "Because they have (n-1) d¹⁰ns² configuration"
+  },
+  {
+    "instruction": "What is the name given to the two series of elements at the bottom of the Periodic Table?",
+    "input": "",
+    "output": "The f-Block Elements (Inner-Transition Elements)"
+  },
+  {
+    "instruction": "Why are the elements in each series called Inner-Transition Elements?",
+    "input": "",
+    "output": "Because the last electron added to each element is filled in the f-orbital"
+  },
+  {
+    "instruction": "What is a characteristic of actinoid elements?",
+    "input": "",
+    "output": "Actinoid elements are radioactive."
+  },
+  {
+    "instruction": "Why is the chemistry of early actinoids more complicated than lanthanoids?",
+    "input": "",
+    "output": "Due to the large number of oxidation states possible for these actinoid elements."
+  },
+  {
+    "instruction": "What is the trend of metallic character as we move down a group in the Periodic Table?",
+    "input": "",
+    "output": "Metallic character increases down a group."
+  },
+  {
+    "instruction": "How does metallic character change along a period in the Periodic Table?",
+    "input": "",
+    "output": "Metallic character decreases along a period as we move from left to right."
+  },
+  {
+    "instruction": "What is Covalent Radius?",
+    "input": "",
+    "output": "The half distance between two atoms bound together by a single bond in a covalent molecule."
+  },
+  {
+    "instruction": "How is Metallic Radius calculated?",
+    "input": "",
+    "output": "Half the internuclear distance separating the metal cores in the metallic crystal."
+  },
+  {
+    "instruction": "What methods are used to measure atomic radii?",
+    "input": "",
+    "output": "Atomic radii can be measured by X-ray or other spectroscopic methods."
+  },
+  {
+    "instruction": "Why do atomic sizes decrease across a period?",
+    "input": "",
+    "output": "The atomic size generally decreases across a period as illustrated in Fig. and explained in terms of nuclear charge and energy level."
+  },
+  {
+    "instruction": "What is the trend for atomic radii across periods?",
+    "input": "",
+    "output": "Atomic radii decrease from left to right across a period."
+  },
+  {
+    "instruction": "Why are noble gas atomic radii compared with van der Waals radii of other elements?",
+    "input": "",
+    "output": "Because their non-bonded radii values are very large."
+  },
+  {
+    "instruction": "Why do solution atomic radii decrease across a period?",
+    "input": "",
+    "output": "Solution atomic radii decrease across a period because cations are smaller than their parent atoms."
+  },
+  {
+    "instruction": "What determines the size of an ion in isoelectronic species?",
+    "input": "",
+    "output": "The size of an ion in isoelectronic species depends on its positive nuclear charge, with larger charges resulting in smaller sizes."
+  },
+  {
+    "instruction": "What is ionization enthalpy?",
+    "input": "",
+    "output": "The energy required to remove an electron from an isolated gaseous atom (X) in its ground state."
+  },
+  {
+    "instruction": "How is the second ionization enthalpy defined?",
+    "input": "",
+    "output": "The energy required to remove the second most loosely bound electron; it is the energy required to carry out the reaction shown in equation 3.2."
+  },
+  {
+    "instruction": "Why do the noble gases have maxima at their positions on the periodic table?",
+    "input": "",
+    "output": "Because they have closed electron shells and very stable electron configurations."
+  },
+  {
+    "instruction": "What happens to the first ionization enthalpy as we go across a period?",
+    "input": "",
+    "output": "It generally increases."
+  },
+  {
+    "instruction": "What two factors are responsible for the trends in ionization enthalpy and atomic radius?",
+    "input": "",
+    "output": "The attraction of electrons towards the nucleus, and the repulsion of electrons from each other."
+  },
+  {
+    "instruction": "Why do the trends in ionization enthalpy and atomic radius occur?",
+    "input": "",
+    "output": "To understand these trends, we have to consider two factors : (i) the attraction of electrons towards the nucleus, and (ii) the repulsion of electrons from each other."
+  },
+  {
+    "instruction": "What causes a valence electron to experience a net positive charge?",
+    "input": "",
+    "output": "Shielding or screening of the valence electron from the nucleus by intervening core electrons."
+  },
+  {
+    "instruction": "How does the shielding effect affect the actual charge on the nucleus for an atom like lithium?",
+    "input": "",
+    "output": "It reduces the actual charge on the nucleus because the valence electron experiences a net positive charge less than +3 due to shielding."
+  },
+  {
+    "instruction": "What is effective shielding in the context of atomic structure?",
+    "input": "",
+    "output": "When the orbitals in the inner shells are completely filled."
+  },
+  {
+    "instruction": "Why does ionization enthalpy increase across a period?",
+    "input": "",
+    "output": "Because increasing nuclear charge outweighs the shielding, causing outermost electrons to be held more tightly."
+  },
+  {
+    "instruction": "Why should the Electron Gain Enthalpy (∆egH) be negative for elements where an electron is added to form a negative ion?",
+    "input": "",
+    "output": "Because energy is released when an electron is added to the atom."
+  },
+  {
+    "instruction": "What does Electron gain enthalpy provide as a measure?",
+    "input": "",
+    "output": "A measure of the ease with which an atom adds an electron to form anion"
+  },
+  {
+    "instruction": "Why do group 17 elements have high negative electron gain enthalpies?",
+    "input": "",
+    "output": "Because they can attain stable noble gas electronic configurations by picking up an electron."
+  },
+  {
+    "instruction": "What happens to the electron gain enthalpy of elements as atomic number increases across a period?",
+    "input": "",
+    "output": "It becomes more negative."
+  },
+  {
+    "instruction": "What is generally more negative as we move across a period?",
+    "input": "",
+    "output": "Electron gain enthalpy"
+  },
+  {
+    "instruction": "What happens to electron gain enthalpy down a group?",
+    "input": "",
+    "output": "It becomes less negative"
+  },
+  {
+    "instruction": "What is the reason for chlorine having the most negative electron gain enthalpy?",
+    "input": "",
+    "output": "Cladding an electron to the smaller 2p-orbital leads to greater repulsion than adding it to the larger 3p-orbital."
+  },
+  {
+    "instruction": "Why are numerical scales of electronegativity not measurable?",
+    "input": "",
+    "output": "Electronegativity is a qualitative measure, unlike ionization enthalpy and electron gain enthalpy."
+  },
+  {
+    "instruction": "What is the Pauling scale used for?",
+    "input": "",
+    "output": "to assign a value to elements, such as fluorine, and is considered to have the greatest * value."
+  },
+  {
+    "instruction": "At what temperature is electron affinity defined as absolute zero?",
+    "input": "",
+    "output": "at any other temperature (T)"
+  },
+  {
+    "instruction": "What is the trend in electronegativity across a period?",
+    "input": "",
+    "output": "Electronegativity generally increases from left to right."
+  },
+  {
+    "instruction": "Why does electronegativity decrease down a group?",
+    "input": "",
+    "output": "It decreases because of the ability to attract electrons."
+  },
+  {
+    "instruction": "What is the relationship between electronegativity and non-metallic properties of elements?",
+    "input": "",
+    "output": "Electronegativity is directly related to non-metallic properties of elements, and inversely related to metallic properties of elements."
+  },
+  {
+    "instruction": "Why do non-metallic elements have a strong tendency to gain electrons?",
+    "input": "",
+    "output": "Non-metallic elements have a strong tendency to gain electrons because they can gain electrons."
+  },
+  {
+    "instruction": "What happens to the non-metallic properties of elements as electronegativity increases across a period?",
+    "input": "",
+    "output": "increase"
+  },
+  {
+    "instruction": "What happens to the metallic properties of elements as electronegativity decreases down a group?",
+    "input": "",
+    "output": "increase"
+  },
+  {
+    "instruction": "What is the relationship between valence state and electronic configuration of elements?",
+    "input": "",
+    "output": "The valence is the most characteristic property of the elements and can be understood in terms of their electronic configurations."
+  },
+  {
+    "instruction": "How do representative elements relate to their outermost orbitals regarding valence?",
+    "input": "",
+    "output": "The valence of representative elements is usually equal to the number of electrons in the outermost orbitals"
+  },
+  {
+    "instruction": "What is the order of electronegativity of F, O, and Na?",
+    "input": "",
+    "output": "F > O > Na"
+  },
+  {
+    "instruction": "Why does oxygen exhibit an oxidation state of +2 in OF2, while it exhibits -2 in Na2O?",
+    "input": "",
+    "output": "Because fluorine has a higher electronegativity than oxygen, allowing oxygen to share electrons with two fluorine atoms instead of one."
+  },
+  {
+    "instruction": "What is the formula of the compound formed between Aluminium and Sulphur?",
+    "input": "",
+    "output": "Al2S3"
+  },
+  {
+    "instruction": "Why do some elements exhibit variable valence?",
+    "input": "",
+    "output": "There are many elements which exhibit variable valence."
+  },
+  {
+    "instruction": "What are anomalous properties of second period elements?",
+    "input": "",
+    "output": "The first element of each group (lithium and beryllium) differs in many respects from the other members of their respective groups, forming compounds with pronounced covalent character."
+  },
+  {
+    "instruction": "Why do lithium and beryllium behave differently than other members of their groups?",
+    "input": "",
+    "output": "Their behaviour is more similar to Table 3.9 Periodic Trends in Valence of Elements as shown by the Formulas of Their Compounds."
+  },
+  {
+    "instruction": "Are oxidation state and covalency of Al in [AlCl(H2O)5]2+ same?",
+    "input": "",
+    "output": "No, the oxidation state is +3 while the covalency is 6"
+  },
+  {
+    "instruction": "Why are all chemical and physical properties a manifestation of electronic configuration of elements?",
+    "input": "",
+    "output": "Because periodicity is related to electronic configuration"
+  },
+  {
+    "instruction": "What is the general trend of ionization enthalpy across a period?",
+    "input": "",
+    "output": "It generally increases."
+  },
+  {
+    "instruction": "Why do elements on the extreme left and right exhibit high chemical reactivity?",
+    "input": "",
+    "output": "Their ionization enthalpies are least and highest negative respectively, leading to easy loss or gain of electrons."
+  },
+  {
+    "instruction": "What is the highest chemical reactivity exhibited by elements among alkali metals?",
+    "input": "",
+    "output": "The loss of an electron leading to the formation of a cation."
+  },
+  {
+    "instruction": "How does the metallic character of an element vary across a period?",
+    "input": "",
+    "output": "It decreases from left to right, while non-metallic character increases."
+  },
+  {
+    "instruction": "What is the reason for ionization enthalpies being less electropositive than group 1 and 2 metals?",
+    "input": "",
+    "output": "Ionization enthalpies are intermediate between those of s- and p-blocks."
+  },
+  {
+    "instruction": "Why does metallic character increase down a group and non-metallic character decrease?",
+    "input": "",
+    "output": "The increase in atomic and ionic radii with increase in atomic number generally results in a gradual decrease in ionization enthalpies and a regular decrease (with exception in some third period elements) in electron gain enthalpies in the case of main group elements."
+  },
+  {
+    "instruction": "What is the trend observed in atomic radii?",
+    "input": "",
+    "output": "Atomic radius decreases while going from left to right in a period and increases with atomic number in a group."
+  },
+  {
+    "instruction": "Why does electronegativity show a similar trend as ionization enthalpies across a period?",
+    "input": "",
+    "output": "Not explicitly stated, however electronegativity also shows a similar trend."
+  },
+  {
+    "instruction": "What is the basic theme of organisation in the periodic table?",
+    "input": "",
+    "output": "Oxides formed of the elements on the left are basic and of the elements on the right are acidic in nature."
+  },
+  {
+    "instruction": "Why did Mendeleev use a particular property to classify the elements in his periodic table?",
+    "input": "",
+    "output": "He used the important property of atomic weights to classify the elements in his periodic table."
+  },
+  {
+    "instruction": "What is the justification for the sixth period of the periodic table having 32 elements?",
+    "input": "",
+    "output": "The sixth period has 32 elements because it contains the d-block elements, which have a half-filled or fully filled d subshell."
+  },
+  {
+    "instruction": "How would you locate the element with atomic number Z = 114 in terms of period and group?",
+    "input": "",
+    "output": "The element with Z = 114 would be located in the seventh period and the first group of the periodic table."
+  },
+  {
+    "instruction": "What are atomic radius and ionic radius?",
+    "input": "",
+    "output": "Atomic radius is the distance between the nucleus and the outermost electron, while ionic radius is the distance between the nucleus and the electron of an ion."
+  },
+  {
+    "instruction": "How do atomic radius vary in a period and in a group?",
+    "input": "",
+    "output": "Atomic radius decreases from left to right in a period due to increasing effective nuclear charge, and increases down a group due to increasing distance from the nucleus."
+  },
+  {
+    "instruction": "What is common among N3–, O2–, F–, Na+, Mg2+ and Al3+?",
+    "input": "",
+    "output": "All of them are ions."
+  },
+  {
+    "instruction": "Arrange the ions in order of increasing ionic radii: N3–, O2–, F–, Na+, Mg2+",
+    "input": "",
+    "output": "F– < Na+ < Mg2+ < O2– < N3–"
+  },
+  {
+    "instruction": "What is the ionization enthalpy of atomic hydrogen in terms of J mol–1?",
+    "input": "",
+    "output": "8.98×10^3J mol–1"
+  },
+  {
+    "instruction": "Why does Be have a higher ∆i H than B, and why does O have a lower ∆i H than N and F among the second period elements?",
+    "input": "",
+    "output": "Be has a higher ∆i H than B because Be is a larger atom with a weaker electrostatic attraction between its nucleus and electrons. Oxygen has a lower ∆i H than Nitrogen and Fluorine due to the inert pair effect, where the outermost energy level of oxygen becomes more stable, resulting in less ionization enthalpy."
+  },
+  {
+    "instruction": "What is the reason for the difference in ionization enthalpy between sodium and magnesium?",
+    "input": "",
+    "output": "Due to the difference in size of the ions, the outer electron is more easily removed from the smaller ion (sodium) compared to the larger ion (magnesium)"
+  },
+  {
+    "instruction": "Why does the ionization enthalpy decrease down a group?",
+    "input": "",
+    "output": "It is due to the increase in atomic size and the decrease in effective nuclear charge, resulting in weaker attraction between the nucleus and the outer electrons"
+  },
+  {
+    "instruction": "What is the main difference between electron gain enthalpy and electronegativity?",
+    "input": "",
+    "output": "Electron gain enthalpy is the energy change when an electron is added to a neutral atom, whereas electronegativity is a measure of the tendency of an atom to attract electrons in a covalent bond."
+  },
+  {
+    "instruction": "Why can't we expect the first ionization enthalpies for two isotopes of the same element to be the same?",
+    "input": "",
+    "output": "Because isotopes have different numbers of neutrons, which affect their atomic sizes and thus the stability of ions, leading to different ionization energies."
+  },
+  {
+    "instruction": "What are the major differences between metals and non-metals?",
+    "input": "",
+    "output": "Metals are typically shiny, malleable, and good conductors of electricity, while non-metals are dull, brittle, and poor conductors of electricity."
+  },
+  {
+    "instruction": "Which element tends to lose two electrons based on the periodic table?",
+    "input": "",
+    "output": "An element that would tend to lose two electrons is typically found in Group 18 (Noble Gases)."
+  },
+  {
+    "instruction": "What group contains metal, non-metal and both gas and liquid at room temperature?",
+    "input": "",
+    "output": "Group 17"
+  },
+  {
+    "instruction": "Which element is likely to be the least reactive based on its ionization enthalpies and electron gain enthalpy?",
+    "input": "",
+    "output": "Element II"
+  },
+  {
+    "instruction": "What is the most reactive metal?",
+    "input": "",
+    "output": "Alkali metals (Group 1A) are the most reactive metals."
+  },
+  {
+    "instruction": "Which metal forms a predominantly stable covalent halide MX (X=halogen)?",
+    "input": "",
+    "output": "Post-transition metals, such as zinc and cadmium, form predominantly stable covalent halides of the formula MX (X=halogen)."
+  },
+  {
+    "instruction": "What is the basis for the number of columns in a block of elements in the modern periodic table?",
+    "input": "",
+    "output": "a maximum of electrons that can occupy all the orbitals in a given orbital type"
+  },
+  {
+    "instruction": "Which statement about the d-block having 8 columns is incorrect?",
+    "input": "",
+    "output": "b"
+  },
+  {
+    "instruction": "What determines the number of columns in a block?",
+    "input": "",
+    "output": "Each block contains a number of columns equal to the number of electrons that can occupy that subshell."
+  },
+  {
+    "instruction": "Which factor does not affect the valence shell?",
+    "input": "",
+    "output": "Number of core electrons"
+  },
+  {
+    "instruction": "What is the reason for the removal of an electron being easier from orbitals bearing lower n value?",
+    "input": "",
+    "output": "Removal of electron from orbitals bearing lower n value is easier than from orbital having higher n value."
+  },
+  {
+    "instruction": "What is the correct order of metallic character in elements B, Al, Mg, and K?",
+    "input": "",
+    "output": "B > Al > Mg > K"
+  },
+  {
+    "instruction": "What are the three units in the FPS system?",
+    "input": "",
+    "output": "foot, pound and second respectively"
+  },
+  {
+    "instruction": "Who developed the International System of Units (SI) in 1971?",
+    "input": "",
+    "output": "The Bureau International des poids et mesures (BIPM)"
+  },
+  {
+    "instruction": "What unit is used to measure a plane angle?",
+    "input": "",
+    "output": "radian (rad)"
+  },
+  {
+    "instruction": "What symbol represents the unit for solid angle?",
+    "input": "",
+    "output": "steradian (sr)"
+  },
+  {
+    "instruction": "What is the definition of the ampere unit?",
+    "input": "",
+    "output": "The ampere is defined as taking the fixed numerical value of the caesium frequency Dncs, the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s–1."
+  },
+  {
+    "instruction": "How is the second defined?",
+    "input": "",
+    "output": "The second is defined by taking the fixed numerical value of the caesium frequency Dncs, the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s–1."
+  },
+  {
+    "instruction": "What is the Avogadro number also called?",
+    "input": "",
+    "output": "The fixed numerical value of NA when expressed in mol–1"
+  },
+  {
+    "instruction": "In what unit is luminous intensity measured?",
+    "input": "",
+    "output": "Luminous candela (cd)"
+  },
+  {
+    "instruction": "What happens to measuring techniques as technology progresses?",
+    "input": "",
+    "output": "Measurements get improved leading to greater precision."
+  },
+  {
+    "instruction": "Why are definitions of base units revised?",
+    "input": "",
+    "output": "To keep up with progress in technology."
+  },
+  {
+    "instruction": "What is the purpose of using significant figures?",
+    "input": "",
+    "output": "Significant figures indicate the precision of measurement which depends on the least count of the measuring instrument."
+  },
+  {
+    "instruction": "Does changing units affect the number of significant digits in a measurement?",
+    "input": "",
+    "output": "No, changing units does not change the number of significant digits or figures in a measurement."
+  },
+  {
+    "instruction": "What determines the number of significant figures in a measurement?",
+    "input": "",
+    "output": "All non-zero digits and all zeros between two non-zero digits are considered significant."
+  },
+  {
+    "instruction": "Does the location of decimal point affect the number of significant figures in a measurement?",
+    "input": "",
+    "output": "No, it does not. The placement of the decimal point is of no consequence in determining the number of significant figures."
+  },
+  {
+    "instruction": "What is the status of trailing zeroes without a decimal point?",
+    "input": "",
+    "output": "Not significant"
+  },
+  {
+    "instruction": "Are trailing zeroes with a decimal point considered significant in numbers?",
+    "input": "",
+    "output": "Yes"
+  },
+  {
+    "instruction": "What is the best way to remove ambiguities in determining the number of significant figures?",
+    "input": "",
+    "output": "To report every measurement in scientific notation (in the power of 10)"
+  },
+  {
+    "instruction": "How can an approximate idea of a number be obtained from its scientific notation?",
+    "input": "",
+    "output": "By rounding off the number 'a' to 1 (for a ≤5) and to 10 (for 5<a ≤10)"
+  },
+  {
+    "instruction": "What is the final result for the sum of 436.32 g, 227.2 g and 0.301 g when rounded to the least decimal place?",
+    "input": "",
+    "output": "663.8 g"
+  },
+  {
+    "instruction": "How should the number of decimal places be retained in the result of an addition or subtraction operation?",
+    "input": "",
+    "output": "as many decimal places as are there in the number with the least decimal places."
+  },
+  {
+    "instruction": "How to round off a number to three significant figures if the insignificant digit is exactly 5?",
+    "input": "",
+    "output": "The preceding digit is raised by 1 if the number is even, and dropped if the number is odd."
+  },
+  {
+    "instruction": "What happens when rounding off a number with an insignificant digit of 5 in a 2-digit case?",
+    "input": "",
+    "output": "The preceding digit (2) is raised by 1 to get 3."
+  },
+  {
+    "instruction": "What is the correct rounding off value for 2.745 to three significant figures?",
+    "input": "",
+    "output": "2.74"
+  },
+  {
+    "instruction": "How many significant figures are retained in a number like 2.99792458 × 10^8 m/s before it is rounded off to an approximate value?",
+    "input": "",
+    "output": "3"
+  },
+  {
+    "instruction": "What is the value of π suitable for use in calculations involving a limited number of significant figures?",
+    "input": "",
+    "output": "3.14 or 3.142"
+  },
+  {
+    "instruction": "How should the volume and surface area of a cube with each side measuring 7.203 m be expressed to appropriate significant figures?",
+    "input": "",
+    "output": "to 3 significant figures"
+  },
+  {
+    "instruction": "If a substance has a mass of 5.74 g and it occupies a volume of 1.2 cm³, how many significant figures should be used when calculating its density?",
+    "input": "",
+    "output": "3"
+  },
+  {
+    "instruction": "Why were the calculated area and volume of a cube rounded off to 4 significant figures instead of using all the given significant figures in the measured length?",
+    "input": "",
+    "output": "Because the number of significant figures in the measured length is 4, while there are only 2 significant figures in the measured volume."
+  },
+  {
+    "instruction": "Why are extra digits added to intermediate steps during complex calculations?",
+    "input": "",
+    "output": "To avoid additional errors in the process of rounding off the numbers."
+  },
+  {
+    "instruction": "How many fundamental or base quantities are there, and what are they denoted as?",
+    "input": "",
+    "output": "Seven fundamental or base quantities, which are called the seven dimensions of the physical world and denoted with square brackets [ ]"
+  },
+  {
+    "instruction": "What are the equivalent physical quantities mentioned as having the same dimensions as velocity?",
+    "input": "",
+    "output": "[L]/[T] or [M° L T-1]"
+  },
+  {
+    "instruction": "How can we determine the dimensional formula of a given physical quantity?",
+    "input": "",
+    "output": "The expression which shows how and which of the base quantities represent the dimensions of a physical quantity is called the dimensional formula."
+  },
+  {
+    "instruction": "What is the condition for adding or subtracting physical quantities?",
+    "input": "",
+    "output": "They must have the same dimensions."
+  },
+  {
+    "instruction": "Can velocity be added to force?",
+    "input": "",
+    "output": "No, because they do not have the same dimension."
+  },
+  {
+    "instruction": "If the dimensions of all terms are different in an equation, what can be concluded about the equation?",
+    "input": "",
+    "output": "It is wrong."
+  },
+  {
+    "instruction": "Does dimensional consistency guarantee that an equation is correct?",
+    "input": "",
+    "output": "No, it only indicates consistency"
+  },
+  {
+    "instruction": "What does a test of consistency of dimensions tell us about the status of an equation?",
+    "input": "",
+    "output": "It tells us no more and no less than a test of consistency of units."
+  },
+  {
+    "instruction": "How must an equation be classified after passing a dimensionally correct test?",
+    "input": "",
+    "output": "It is not proved right, even if it is dimensionally correct."
+  },
+  {
+    "instruction": "What is Physics based on?",
+    "input": "",
+    "output": "the measurement of physical quantities"
+  },
+  {
+    "instruction": "What are the units called for fundamental or base quantities?",
+    "input": "",
+    "output": "fundamental or base units"
+  },
+  {
+    "instruction": "What is a complete set of units called?",
+    "input": "",
+    "output": "A system of units."
+  },
+  {
+    "instruction": "Which unit system is widely accepted and used throughout the world?",
+    "input": "",
+    "output": "The International System of Units (SI)"
+  },
+  {
+    "instruction": "The volume of a cube of side 1 cm is equal to .....m3",
+    "input": "",
+    "output": "0.001 m3"
+  },
+  {
+    "instruction": "The surface area of a solid cylinder of radius 2.0 cm and height 10.0 cm is equal to ...(mm)2",
+    "input": "",
+    "output": "75 mm^2"
+  },
+  {
+    "instruction": "If a calorie is equivalent to 4.2 J in the SI system and the unit of mass equals \\alpha kg, the unit of length equals \\beta m, and the unit of time is \\gamma s, what is the magnitude of a calorie in terms of the new units?",
+    "input": "",
+    "output": "4.2 \\alpha^{-1} \\beta^{-2} \\gamma^{2}"
+  },
+  {
+    "instruction": "Why can we not say that an object is large or small without specifying a standard for comparison?",
+    "input": "",
+    "output": "Because the size of a quantity depends on the unit system used to measure it"
+  },
+  {
+    "instruction": "What is the distance between the Sun and the Earth in terms of the new unit if light takes 8 min and 20 s to cover this distance?",
+    "input": "",
+    "output": "1/ (100/3.6) = 3.6 units"
+  },
+  {
+    "instruction": "Which device is most precise for measuring length among vernier callipers, screw gauge and optical instrument?",
+    "input": "",
+    "output": "b. a screw gauge of pitch 1 mm and 100 divisions on the circular scale"
+  },
+  {
+    "instruction": "What is an estimate of the thickness of hair?",
+    "input": "",
+    "output": "1.8"
+  },
+  {
+    "instruction": "How can you estimate the diameter of a thread using a metre scale and a given thread?",
+    "input": "",
+    "output": "You can estimate the diameter by measuring the length of the thread and then dividing it by the number of threads present."
+  },
+  {
+    "instruction": "Can the accuracy of a screw gauge be increased arbitrarily by increasing the number of divisions on the circular scale?",
+    "input": "",
+    "output": "No, because each division represents 1 mm and beyond a certain point, you cannot measure smaller lengths using the screw gauge."
+  },
+  {
+    "instruction": "Why does a set of 100 measurements of the diameter expected to yield a more reliable estimate than a set of 5 measurements only?",
+    "input": "",
+    "output": "Because with more data, we can calculate an average that reduces the effect of outliers and provides a more accurate result."
+  },
+  {
+    "instruction": "What is the linear magnification of the projector-screen arrangement?",
+    "input": "",
+    "output": "To find the linear magnification, we need to compare the area on the slide (1.75 cm2) with the area on the screen (1.55 m2). However, the units are not consistent. We must convert 1.75 cm2 to square meters: 1.75 x 10^-4 m2. Then, the linear magnification can be calculated by comparing the corresponding linear dimensions, which is not directly provided in the text."
+  },
+  {
+    "instruction": "What are the number of significant figures in each of the given values?",
+    "input": "",
+    "output": "0 for (a), 3 for (b) and (e), 5 for (c) and (f), and 2 for (d)"
+  },
+  {
+    "instruction": "Give the area and volume of the sheet to correct significant figures.",
+    "input": "",
+    "output": "Area = 21.4 m^2, Volume = 41.0 cm^3"
+  },
+  {
+    "instruction": "What is the unit of length convenient on the atomic scale?",
+    "input": "",
+    "output": "angstrom (Å)"
+  },
+  {
+    "instruction": "What is the ratio of molar volume to the atomic volume of a mole of hydrogen ?",
+    "input": "",
+    "output": "22.4 L / 0.5 Å"
+  },
+  {
+    "instruction": "Why is the ratio of H atom size to H molecule size so large ?",
+    "input": "",
+    "output": "Because the size of a hydrogen molecule is considered to be about 1 Å (Ångström), which represents the distance between the nuclei in a single covalent bond, and it is much smaller than the actual size of a H atom."
+  },
+  {
+    "instruction": "Why do distant objects appear stationary from a moving train ?",
+    "input": "",
+    "output": "Because the observer is aware that they are moving, so their motion becomes relative to them. The apparent stationary motion of distant objects can be explained by the principle of relative motion."
+  },
+  {
+    "instruction": "What can be expected about the mass density of the Sun?",
+    "input": "",
+    "output": "It should be within the range of densities of solids and liquids."
+  },
+  {
+    "instruction": "How can we estimate the mass density of the Sun from its given data?",
+    "input": "",
+    "output": "We can use the formula for volume (V = πr^3) to find the surface area, then use mass and surface area to estimate the density."
+  },
+  {
+    "instruction": "What is common to everything in the universe?",
+    "input": "",
+    "output": "Motion"
+  },
+  {
+    "instruction": "Why is air moving into and out of our lungs even when we are sleeping?",
+    "input": "",
+    "output": "Because air moves into and out of our lungs, even while we are sleeping"
+  },
+  {
+    "instruction": "What is the instantaneous velocity defined as?",
+    "input": "",
+    "output": "The limit of the average velocity as the time interval becomes infinitesimally small."
+  },
+  {
+    "instruction": "How is the instantaneous velocity represented in equation form?",
+    "input": "",
+    "output": "As d dx t , where it is the differential coefficient of x with respect to t"
+  },
+  {
+    "instruction": "What is the average velocity calculated from the tangent of a position-time graph?",
+    "input": "",
+    "output": "Velocity at t = 4 s"
+  },
+  {
+    "instruction": "How does the interval used to calculate average velocity change when Dt decreases from 2 s to 1 s?",
+    "input": "",
+    "output": "The line becomes Q1Q2 and its slope gives the value of the average velocity over the interval 3.5 s to 4.5 s"
+  },
+  {
+    "instruction": "How can we describe the change in velocity of an object during its motion?",
+    "input": "",
+    "output": "The change in velocity should be described as the rate of change in velocity with time."
+  },
+  {
+    "instruction": "Should acceleration be described as the rate of change in velocity with distance or with time?",
+    "input": "",
+    "output": "Acceleration should be described as the rate of change in velocity with time."
+  },
+  {
+    "instruction": "What is acceleration according to Galileo?",
+    "input": "",
+    "output": "Acceleration as the rate of change of velocity with time."
+  },
+  {
+    "instruction": "How is average acceleration defined?",
+    "input": "",
+    "output": "The average change of velocity per unit time"
+  },
+  {
+    "instruction": "What is the SI unit of acceleration?",
+    "input": "",
+    "output": "m s–2"
+  },
+  {
+    "instruction": "How is average acceleration calculated from a velocity-time graph?",
+    "input": "",
+    "output": "The slope of the straight line connecting the points corresponding to (v2, t2) and (v1, t1)"
+  },
+  {
+    "instruction": "What is the shape of a position-time graph for motion with zero acceleration?",
+    "input": "",
+    "output": "A straight line."
+  },
+  {
+    "instruction": "Is average acceleration equal to constant acceleration during an interval for motion with constant acceleration?",
+    "input": "",
+    "output": "Yes, in this case."
+  },
+  {
+    "instruction": "What does the equation v = u + at represent?",
+    "input": "",
+    "output": "The position-time graph for motion with zero acceleration."
+  },
+  {
+    "instruction": "How would the velocity-time graph look for an object moving in a positive direction with a negative acceleration?",
+    "input": "",
+    "output": "Like an object is moving in the opposite direction as the velocity decreases over time."
+  },
+  {
+    "instruction": "What does the area under a velocity-time graph represent for any moving object?",
+    "input": "",
+    "output": "the displacement over a given time interval"
+  },
+  {
+    "instruction": "Is the statement true for an object moving with constant velocity u?",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "What does the area under v-t curve represent?",
+    "input": "",
+    "output": "the displacement of the object"
+  },
+  {
+    "instruction": "How can equation (2.5) be written as an expression involving acceleration, initial and final velocities?",
+    "input": "",
+    "output": "as 0 2 v + v x t v t = = (constant acceleration only)"
+  },
+  {
+    "instruction": "What are the three important equations obtained for rectilinear motion with constant acceleration?",
+    "input": "",
+    "output": "0 v v at = + 2, 02 1 2 x v t at = + 2, and v v ax = + (2.9a)"
+  },
+  {
+    "instruction": "How can the position coordinate be modified to obtain a general equation if we take it as non-zero?",
+    "input": "",
+    "output": "The position coordinate can be taken as non-zero by replacing x with x – x0 in equations 0 v v at = + 2, 02 1 2 and v v ax = + (2.9a)"
+  },
+  {
+    "instruction": "What is the equation that relates distance, velocity and time for an object moving in a straight line with uniform acceleration?",
+    "input": "",
+    "output": "d^2v = dv/dt"
+  },
+  {
+    "instruction": "How can the equation v dv = a dx be used to find the position of an object with non-uniform acceleration?",
+    "input": "",
+    "output": "It can be integrated to give the equation x + v t - (1/2) a t^2"
+  },
+  {
+    "instruction": "What is the time taken for the upward motion from point A to B?",
+    "input": "",
+    "output": "2 s"
+  },
+  {
+    "instruction": "Why is it possible to find the time taken for the upward motion by splitting it into two parts?",
+    "input": "",
+    "output": "Because the velocity at point B is zero, allowing us to use the equation v = vo + at to solve for t1"
+  },
+  {
+    "instruction": "What is the total time taken by a ball to hit the ground when it starts from y0 = 45 m and hits the ground at y = 0 m?",
+    "input": "",
+    "output": "5 s"
+  },
+  {
+    "instruction": "Why is the second method better than the first method for calculating the total time taken by a ball under constant acceleration?",
+    "input": "",
+    "output": "Because we don't have to worry about the path of the motion in this method."
+  },
+  {
+    "instruction": "What is the variation of acceleration with time?",
+    "input": "",
+    "output": "Acceleration increases with time under free fall."
+  },
+  {
+    "instruction": "How does velocity change over time in a situation where an object is under free fall?",
+    "input": "",
+    "output": "Velocity increases with time under free fall."
+  },
+  {
+    "instruction": "What is the ratio of distances covered by an object under free fall?",
+    "input": "",
+    "output": "1:3:5:7:9:11..."
+  },
+  {
+    "instruction": "How does the stopping distance of a vehicle depend on initial velocity and deceleration?",
+    "input": "",
+    "output": "initial velocity (v0) and deceleration (-a)"
+  },
+  {
+    "instruction": "What is reaction time?",
+    "input": "",
+    "output": "The time a person takes to observe, think and act."
+  },
+  {
+    "instruction": "How does reaction time depend on",
+    "input": "",
+    "output": "The complexity of the situation and on an individual."
+  },
+  {
+    "instruction": "What is the acceleration of the object when it is in motion?",
+    "input": "",
+    "output": "-9.8 m s^-2"
+  },
+  {
+    "instruction": "How can the reaction time be calculated given the distance travelled and gravitational acceleration?",
+    "input": "",
+    "output": "d / g"
+  },
+  {
+    "instruction": "What is instantaneous acceleration?",
+    "input": "",
+    "output": "The limit of the average acceleration as the time interval ∆t goes to zero."
+  },
+  {
+    "instruction": "Why is the area under the velocity-time curve equal to the displacement during an interval of time?",
+    "input": "",
+    "output": "Because for objects in uniformly accelerated rectilinear motion, the five quantities: displacement x, time taken t, initial velocity v0, final velocity v and acceleration a are related by a set of simple equations called kinematic equations of motion."
+  },
+  {
+    "instruction": "What are the conditions under which acceleration is in the same direction as velocity?",
+    "input": "",
+    "output": "If a particle is speeding up, acceleration is in the direction of velocity; if its speed is decreasing, acceleration is in the direction opposite to that of the velocity."
+  },
+  {
+    "instruction": "Why should we specify the origin and positive direction of an axis before assigning signs to quantities like displacement, velocity and acceleration?",
+    "input": "",
+    "output": "Because it's a matter of choice and we need to make this choice before we can accurately represent these quantities."
+  },
+  {
+    "instruction": "(A/B) lives closer to the school than (B/A)",
+    "input": "",
+    "output": "b"
+  },
+  {
+    "instruction": "(A/B) overtakes (B/A) on the road (once/twice)",
+    "input": "",
+    "output": "a"
+  },
+  {
+    "instruction": "(a) What is the direction of acceleration during the upward motion of the ball ?",
+    "input": "",
+    "output": "The direction of acceleration during the upward motion of the ball is vertically downwards."
+  },
+  {
+    "instruction": "(d) To what height does the ball rise and after how long does the ball return to the player’s hands ?",
+    "input": "",
+    "output": "Not provided in the given text."
+  },
+  {
+    "instruction": "(a) What is the total distance travelled by the man?",
+    "input": "",
+    "output": "5 km + 2.5 km = 7.5 km"
+  },
+  {
+    "instruction": "(b) How does average speed differ from magnitude of average velocity?",
+    "input": "",
+    "output": "Average speed is calculated as total path length divided by time, whereas magnitude of average velocity requires a direction component"
+  },
+  {
+    "instruction": "What are the signs of position, velocity and acceleration variables at t = 0.3 s for a particle executing one-dimensional simple harmonic motion?",
+    "input": "",
+    "output": "The sign of position is negative, velocity is positive, and acceleration is positive."
+  },
+  {
+    "instruction": "At t = -1.2 s for a particle executing one-dimensional simple harmonic motion, what are the signs of position, velocity and acceleration variables?",
+    "input": "",
+    "output": "The sign of position is negative, velocity is negative, and acceleration is positive."
+  },
+  {
+    "instruction": "In which interval does the average speed show its greatest value ?",
+    "input": "",
+    "output": "The first interval"
+  },
+  {
+    "instruction": "What is the sign of the average velocity for all intervals ?",
+    "input": "",
+    "output": "Negative"
+  },
+  {
+    "instruction": "In which interval is the average acceleration greatest in magnitude?",
+    "input": "",
+    "output": "The interval in which the average acceleration is greatest is between A and B."
+  },
+  {
+    "instruction": "What are the signs of v and a in the intervals where v is positive?",
+    "input": "",
+    "output": "[A: +v, -a], [B: +v, +a], [C: -v, +a], [D: -v, -a]"
+  }
+]
